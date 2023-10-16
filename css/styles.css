@@ -1042,7 +1042,7 @@ input[type="checkbox"]:checked + label > span {
 
 .footer .container {
   gap: 72px 24px;
-  width: 528px;
+  width: 584px;
 }
 
 .footer-logo,
